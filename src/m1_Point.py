@@ -72,7 +72,7 @@ class Point(object):
         return self.moves
 
     def get_distance_from(self,p1):
-        return 
+        return
 
 
 def run_test_init():
